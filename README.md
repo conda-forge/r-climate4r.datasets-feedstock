@@ -1,11 +1,11 @@
-About r-climate4r.datasets
-==========================
+About r-climate4r.datasets-feedstock
+====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-climate4r.datasets-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/SantanderMetGroup/climate4R
 
 Package license: LGPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-climate4r.datasets-feedstock/blob/main/LICENSE.txt)
 
 Summary: Example datasets from popular climate databases (reanalysis, observactions, seasonal forecasts, GCM/RCM projections etc.) of the Climate4R Framework <https://github.com/SantanderMetGroup/climate4R>.
 
