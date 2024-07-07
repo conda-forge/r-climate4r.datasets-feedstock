@@ -1,6 +1,5 @@
 {% set version = '0.0.1' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-climate4r.datasets
@@ -11,8 +10,7 @@ source:
   sha256: 75fea46d84e61a45d692a69a2fd11db0cf9849197905d50df079890a0824124c
 
 build:
-  merge_build_host: True  # [win]
-  number: 3
+  number: 4
   noarch: generic
   rpaths:
     - lib/R/lib/
